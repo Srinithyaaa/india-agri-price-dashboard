@@ -12,8 +12,9 @@ An interactive Power BI dashboard that compares agricultural commodity prices ac
 2. **Price Insights:** price gap and spread across all commodities
 3. **Key Insights:** findings and notes on the data
 
-![Market Overview](page1_overview.png)
-![Price Insights](page2_insights.png)
+![Market Overview](page1_overview.png.png)
+![Price Insights](page2_insights.png.png)
+![Key Insights](page3_key_insights.png.png)
 
 ## Key insights
 - Staples (wheat, bajra, mustard) have a price spread of only 2-4%, while perishables (guar, wet peas, spinach) reach 36-47%.
